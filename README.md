@@ -6,6 +6,7 @@
     <p>I am a programmer.I am very passionate about coding</p>
     <p>Name:Juliana Sau</p>
     <p>Pronouns:They/She</p>
+    <p>Check out my <a href="https://juliesau.hashnode.dev/"> blog </a> to see what im currently working on</p>
   </body>
  </html> 
   
