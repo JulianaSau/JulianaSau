@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
   <body>
-    <h1><a href="https://JulianaSau.github.io/" target="_">Juliana Sau</a></h1><br>
+    <h1><a href="https://JulianaSau.github.io/" target="_blank">Juliana Sau</a></h1><br>
     <p>I am a programmer.I am very passionate about coding</p>
     <p>Name:Juliana Sau</p>
     <p>Pronouns:They/She</p>
