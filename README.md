@@ -1,10 +1,8 @@
 ### Hi there 👋
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Juliana Sau</title>
-  </head>
   <body>
+    <h1>Juliana Sau</h1><br><br>
     <p>I am a programmer.I am very passionate about coding</p>
     <p>Name:Juliana Sau</p>
     <p>Pronouns:They/She</p>
