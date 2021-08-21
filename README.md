@@ -7,9 +7,12 @@
     <p> Name: Juliana Sau</p>
     <p>😄 Pronouns: They/She</p>
     <p>Check out my <a href="https://juliesau.hashnode.dev/" rel="noopener noreferrer" target="_blank"> blog </a> to see what I'm currently working on</p><br>
-    <p>🔭 I’m currently working on ... Frontendmentor.io projects</p><br>
-    <p>⚡ Fun fact: I think i'm lowkey funny</p><br>
-    <p>🌱 I’m currently learning Javascript, PHP, Java and Django</p><br>
+    <p>🔭 I’m currently working on ... Frontendmentor.io projects</p>
+    <p>⚡ Fun fact: I think i'm lowkey funny</p>
+    <p>🌱 I’m currently learning Javascript, PHP, Java and Django</p>
+    <p>🔭 I’m currently interning with HNG  x Zuri Training x i4G</p>
+    <p><a href="https://JulianaSau.github.io/">Check out my portfolio here</a></p>
+    <p><a href="https://JulianaSau.github.io/Printname/printname.html">Check out a web page that prints out my name</a></p>
     <!--<p>📫 How to reach me: </p>
     <ul>
       <li><a href=Email</li>
