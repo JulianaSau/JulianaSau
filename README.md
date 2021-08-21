@@ -14,7 +14,7 @@
     <p>Stage 1 Task</p>
     <p><a href="https://JulianaSau.github.io/">Check out my articles on hashnode about goals I have for my HNG Internship</a></p>
     <p>Stage 2 Task 2 & 3</p>
-    <p><a href="https://JulianaSau.github.io/">Check out my portfolio here</a></p>
+    <p><a href="https://JulianaSau.github.io/">Check out my portfolio and resume here</a></p>
     <p><a href="https://JulianaSau.github.io/Printname/printname.html">Check out a web page that prints out my name</a></p>
     <!--<p>📫 How to reach me: </p>
     <ul>
