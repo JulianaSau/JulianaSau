@@ -10,7 +10,7 @@
     <p>🔭 I’m currently working on ... Frontendmentor.io projects</p>
     <p>⚡ Fun fact: I think i'm lowkey funny</p>
     <p>🌱 I’m currently learning Javascript, PHP, Java and Django</p>
-    <p>🔭 I’m currently interning with HNG  x Zuri Training x i4G</p>
+    <p>🔭 I’m currently interning with HNG  x Zuri Training x i4G as a Frontend Developer</p>
     <p>Stage 1 Task</p>
     <p><a href="https://JulianaSau.github.io/">Check out my articles on hashnode about goals I have for my HNG Internship</a></p>
     <p>Stage 2 Task 2 & 3</p>
