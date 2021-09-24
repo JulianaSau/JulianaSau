@@ -13,7 +13,7 @@
     <p>🔭 I’m currently interning with HNG  x Zuri Training x i4G as a Frontend Developer</p>
     <p>📫 How to reach me: </p>
     <ul>
-      <li><a href=saunyange@gmail.com</li>
+      <li><a href='saunyange@gmail.com'</li>
     </ul>
     
   </body>
