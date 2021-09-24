@@ -11,15 +11,10 @@
     <p>⚡ Fun fact: I think i'm lowkey funny</p>
     <p>🌱 I’m currently learning Javascript, PHP, Java and Django</p>
     <p>🔭 I’m currently interning with HNG  x Zuri Training x i4G as a Frontend Developer</p>
-    <p>Stage 1 Task</p>
-    <p><a href="https://JulianaSau.github.io/">Check out my articles on hashnode about goals I have for my HNG Internship</a></p>
-    <p>Stage 2 Task 2 & 3</p>
-    <p><a href="https://JulianaSau.github.io/">Check out my portfolio and resume here</a></p>
-    <p><a href="https://JulianaSau.github.io/Printname/printname.html">Check out a web page that prints out my name</a></p>
-    <!--<p>📫 How to reach me: </p>
+    <p>📫 How to reach me: </p>
     <ul>
-      <li><a href=Email</li>
-    </ul>-->
+      <li><a href=saunyange@gmail.com</li>
+    </ul>
     
   </body>
  </html> 
