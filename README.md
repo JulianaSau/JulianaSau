@@ -5,12 +5,12 @@
     <h1><a href="https://JulianaSau.github.io/" rel="noopener noreferrer" target="_blank">Juliana Sau</a></h1><br>
     <p>I am a programmer.I am very passionate about coding</p>
     <p> Name: Juliana Sau</p>
-    <p>😄 Pronouns: They/She</p>
+<!--     <p>😄 Pronouns: They/She</p> -->
     <p>Check out my <a href="https://juliesau.hashnode.dev/" rel="noopener noreferrer" target="_blank"> blog </a> to see what I'm currently working on</p><br>
     <p>🔭 I’m currently working on ... Frontendmentor.io projects</p>
-    <p>⚡ Fun fact: I think i'm lowkey funny</p>
-    <p>🌱 I’m currently learning Javascript, PHP, Java and Django</p>
-    <p>🔭 I’m currently interning with HNG  x Zuri Training x i4G as a Frontend Developer</p>
+<!--     <p>⚡ Fun fact: I think i'm lowkey funny</p> -->
+    <p>🌱 I’m currently learning Javascript, React</p>
+    <p>🔭 I’m currently interning at Zurichat as a Frontend Developer</p>
     <p>📫 How to reach me: </p>
     <ul>
       <li><a href='saunyange@gmail.com'</li>
