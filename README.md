@@ -10,7 +10,7 @@
     <p>🔭 I’m currently working on ... Frontendmentor.io projects</p>
 <!--     <p>⚡ Fun fact: I think i'm lowkey funny</p> -->
     <p>🌱 I’m currently learning Javascript, React</p>
-    <p>🔭 I’m currently interning at Zurichat as a Frontend Developer</p>
+    <p>🔭 I’m currently working at Zurichat as a Frontend Developer</p>
     <p>📫 How to reach me: </p>
     <ul>
       <li><a href='saunyange@gmail.com'</li>
