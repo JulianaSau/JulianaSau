@@ -13,6 +13,7 @@
     <p>🔭 I’m currently working at Zurichat as a Frontend Developer</p>
     -📫 How to reach me: saunyange@gmail.com 
     - 👯 I’m looking to collaborate on any Reactor JavaScript project
+    [![Sau's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianaSau)](https://github.com/JulianaSau/github-readme-stats)
   </body>
  </html> 
   
