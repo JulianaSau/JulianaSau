@@ -11,11 +11,8 @@
 <!--     <p>⚡ Fun fact: I think i'm lowkey funny</p> -->
     <p>🌱 I’m currently learning Javascript, React</p>
     <p>🔭 I’m currently working at Zurichat as a Frontend Developer</p>
-    <p>📫 How to reach me: </p>
-    <ul>
-      <li>saunyange@gmail.com</li>
-    </ul>
-    
+    <p>📫 How to reach me: saunyange@gmail.com</p> 
+    - 👯 I’m looking to collaborate on any React,or JavaScript project
   </body>
  </html> 
   
