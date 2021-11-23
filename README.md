@@ -13,7 +13,7 @@
     <p>🔭 I’m currently working at Zurichat as a Frontend Developer</p>
     <p>📫 How to reach me: </p>
     <ul>
-      <li><a href='saunyange@gmail.com'</li>
+      <li>saunyange@gmail.com</li>
     </ul>
     
   </body>
