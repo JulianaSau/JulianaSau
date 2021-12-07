@@ -2,7 +2,7 @@
 ### I'm [Juliana Sau](https://JulianaSau.github.io/)
     
 
-  - I am a Web Developer and UI/UX Designer. I am very passionate about programming annd design
+  I am a Web Developer and UI/UX Designer. I am very passionate about programming annd design
   - 😄 Pronouns: She/Her
   - 🔭 Check out my [blog](https://juliesau.hashnode.dev/) to see what I'm currently working on
   - 🔭 I’m currently working on ... Frontendmentor.io projects
