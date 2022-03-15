@@ -15,9 +15,9 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=JulianaSau&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
-<span align="right">
+
 [My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JulianaSau&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
-</span>
+
   
 
 <!--
