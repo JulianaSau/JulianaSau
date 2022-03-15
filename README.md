@@ -7,7 +7,7 @@
   - 🔭 Check out my [blog](https://juliesau.hashnode.dev/) to see what I'm currently working on
   - 🔭 I’m currently working on ... Frontendmentor.io projects
   - ⚡ Fun fact: I think i'm lowkey funny
-  - 🌱 I’m currently learning Javascript, React, ExpressJs
+  - 🌱 I’m currently learning Javascript, React, ExpressJs, NextJs, Python, Flutter
   - 🔭 I’m currently working at Zurichat as a Frontend Developer
   - 📫 How to reach me: saunyange@gmail.com 
   - 👯 I’m looking to collaborate on any React or JavaScript web development project
