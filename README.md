@@ -6,11 +6,11 @@
   - 😄 Pronouns: She/Her
   - 🔭 Check out my [blog](https://juliesau.hashnode.dev/) to see what I'm currently working on
   - 🔭 I’m currently working on ... Frontendmentor.io projects
-  - ⚡ Fun fact: I think i'm lowkey funny
+  - ⚡ Fun fact: I think i'm funny
   - 🌱 I’m currently learning ExpressJs, NextJs, Python and Solidity
   - 🔭 I’m currently working at Zurichat as a Frontend Developer
-  - 📫 How to reach me: saunyange@gmail.com 
-  - 👯 I’m looking to collaborate on any React or JavaScript web development project
+  - 📫 How to reach me: julienyange@gmail.com 
+  - 👯 I’m looking to collaborate on any React, NodeJS, NextJS, or JavaScript web development project
 
 
 
