@@ -1,10 +1,6 @@
 ### Hi there 👋
 ### I'm [Juliana Sau](https://JulianaSau.github.io/)
-
-<h3 align="left">❤ Support me:</h3>
-<p><a href="https://www.buymeacoffee.com/stotheatotheu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="julianasau" /></a></p><br><br>
-    
-
+ 
   I am a Web Developer and UI/UX Designer. I am very passionate about programming and design
   - 😄 Pronouns: She/Her
   - 🔭 Check out my [blog](https://juliesau.hashnode.dev/) to see what I'm currently working on
@@ -20,6 +16,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=JulianaSau&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
 <img src="http://github-readme-streak-stats.herokuapp.com?user=JulianaSau&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE" />
+
+<h3 align="left">❤ Support me:</h3>
+<p><a href="https://www.buymeacoffee.com/stotheatotheu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="julianasau" /></a></p><br><br>
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JulianaSau&style=flat-square&color=brightgreen" alt="JulianaSau" /></p>
 --!>
