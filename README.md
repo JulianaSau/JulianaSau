@@ -1,5 +1,8 @@
 ### Hi there 👋
 ### I'm [Juliana Sau](https://JulianaSau.github.io/)
+
+<h3 align="left">❤ Support me:</h3>
+<p><a href="https://www.buymeacoffee.com/stotheatotheu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="julianasau" /></a></p><br><br>
     
 
   I am a Web Developer and UI/UX Designer. I am very passionate about programming and design
