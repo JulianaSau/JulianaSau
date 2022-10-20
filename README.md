@@ -1,12 +1,13 @@
 ### Hi there 👋
 ### I'm [Juliana Sau](https://JulianaSau.github.io/)
  
-  I am a Web Developer and UI/UX Designer. I am very passionate about programming and design
+  I am a Software Developer and UI/UX Designer. I am very passionate about programming and design
   - 😄 Pronouns: She/Her
   - 🔭 Check out my [blog](https://juliesau.hashnode.dev/) to see what I'm currently working on
   - 🔭 I’m currently working on ... Frontendmentor.io projects
   - ⚡ Fun fact: I think i'm funny
-  - 🌱 I’m currently learning ExpressJs, NextJs, Python and Solidity
+  - 🌱 I’m currently learning ExpressJs, NextJs, Python, TypeScript and Solidity
+  - 🌱 I’m currently enjoying doing and learning more about devops and automation of workflows
   - 🔭 I’m currently working at Zurichat as a Frontend Developer
   - 📫 How to reach me: julienyange@gmail.com 
   - 👯 I’m looking to collaborate on any React, NodeJS, NextJS, or JavaScript web development project
