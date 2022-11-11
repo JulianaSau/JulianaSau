@@ -4,9 +4,10 @@
   I am a Software Developer and UI/UX Designer. I am very passionate about programming and design
   - 😄 Pronouns: She/Her
   - 🔭 Check out my [blog](https://juliesau.hashnode.dev/) to see what I'm currently working on
-  - 🔭 I’m currently working on ... Frontendmentor.io projects
+  - 🔭 I’m currently working on ... Open Source projects
+  - 🔭 I’m currently the Web Development track lead at (@dsjkuat)[httpa://github.com/dscjkuat]
   - ⚡ Fun fact: I think i'm funny
-  - 🌱 I’m currently learning ExpressJs, NextJs, Python, TypeScript and Solidity
+  - 🌱 I’m currently learning ExpressJs, NextJs, Python, TypeScript, React Native and Solidity
   - 🌱 I’m currently enjoying doing and learning more about devops and automation of workflows
   - 🔭 I’m currently working at Zurichat as a Frontend Developer and at HNG9 Internship as a Frontend Development Mentor
   - 📫 How to reach me: julienyange@gmail.com 
