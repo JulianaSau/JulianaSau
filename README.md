@@ -8,7 +8,7 @@
   - ⚡ Fun fact: I think i'm funny
   - 🌱 I’m currently learning ExpressJs, NextJs, Python, TypeScript and Solidity
   - 🌱 I’m currently enjoying doing and learning more about devops and automation of workflows
-  - 🔭 I’m currently working at Zurichat as a Frontend Developer
+  - 🔭 I’m currently working at Zurichat as a Frontend Developer and at HNG9 Internship as a Frontend Development Mentor
   - 📫 How to reach me: julienyange@gmail.com 
   - 👯 I’m looking to collaborate on any React, NodeJS, NextJS, or JavaScript web development project
 
