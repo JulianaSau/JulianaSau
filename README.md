@@ -5,7 +5,7 @@
   - 😄 Pronouns: She/Her
   - 🔭 Check out my [blog](https://juliesau.hashnode.dev/) to see what I'm currently working on
   - 🔭 I’m currently working on ... Open Source projects
-  - 🔭 I’m currently the Web Development track lead at (@dsjkuat)[httpa://github.com/dscjkuat]
+  - 🔭 I’m currently the Web Development track lead at [@jkuatdsc](https://github.com/jkuatdsc)
   - ⚡ Fun fact: I think i'm funny
   - 🌱 I’m currently learning ExpressJs, NextJs, Python, TypeScript, React Native and Solidity
   - 🌱 I’m currently enjoying doing and learning more about devops and automation of workflows
