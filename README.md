@@ -6,8 +6,8 @@
   - 🔭 Check out my [blog](https://juliesau.hashnode.dev/) to see what I'm currently working on
   - 🔭 I’m currently working on ... Open Source projects
   - 🔭 I’m currently the Web Development track lead at [@jkuatdsc](https://github.com/jkuatdsc)
-  - ⚡ Fun fact: I think i'm funny
-  - 🌱 I’m currently learning ExpressJs, NextJs, Python, TypeScript, React Native and Solidity
+  - ⚡ Fun fact: I play the drums
+  - 🌱 I’m currently learning NextJs, Flutter, Flask and React Native
   - 🌱 I’m currently enjoying doing and learning more about devops and automation of workflows
   - 🔭 I’m currently working at Zurichat as a Frontend Developer and at HNG9 Internship as a Frontend Development Mentor
   - 📫 How to reach me: julienyange@gmail.com 
