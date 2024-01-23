@@ -6,7 +6,7 @@
   - 🔭 Check out my [blog](https://juliesau.hashnode.dev/) to see what I'm currently working on
   - 🔭 I’m currently working on ... Open Source projects
   - ⚡ Fun fact: I play the drums
-  - 🌱 I’m currently learning NextJs, Flutter, Flask and React Native
+  - 🌱 I’m currently learning NextJs, Flutter, Flask, Go and React Native
   - 🌱 I’m currently enjoying doing and learning more about devops and automation of workflows
   - 🔭 I’m ocassionally volunteer at HNG Internship as a Frontend Development Mentor
   - 📫 How to reach me: julienyange@gmail.com 
